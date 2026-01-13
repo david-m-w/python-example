@@ -13,7 +13,7 @@ In the last 5 years, we've invested over 3 000 human-hours, over 100 000 compute
 We've also translated the output into 8 of the most commonly used languages, including __Mandarin__, __Hindi__, __Spanish__, __French__, __German__, __Italian__, __Japanese__, and __Russian__, making the Prime Numbers the most accessible API for finding prime numbers in the world!
 #### Try it for Free: http://try.prime-numbers.io/
 
-If you’re looking for help with encryption, gain access to our __exclusive isolated primes endpoint__ and you can filter for rare primes that lie at least 200, and even up to 500+ numbers away from their closest neighbors! The average probability of finding one of the isolated prime numbers by accident is 1 in over 800,000 (or 0.000124565509%)! The chances of being struck by lightning are 1 in 500,000! Now that’s a strong password!
+If you’re looking for help with encryption, gain access to our __exclusive isolated primes endpoint__ and you can filter for rare primes that lie at least 200, and even up to 500+ numbers away from their closest neighbors! The average probability of finding one of the isolated prime numbers by accident is 1 in over 800,000 (or 0.000124565509%)! The chances of being struck by lightning are 1 in 500,000! (not factorial in this case) Now that’s a strong password!
 
 Our API conveniently translates the language of your smart devices. Every number is returned with its respective translation into binary, senary, and hexa values.
 
